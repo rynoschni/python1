@@ -1,0 +1,5 @@
+print("Please fill in the blanks below:")
+print("___(name)___'s favorite Star Wars character is ___(character)___.")
+name = input("What is name? ")
+character = input("What is character? ")
+print(name + "'s favorite Star Wars character is " + character + ".")
